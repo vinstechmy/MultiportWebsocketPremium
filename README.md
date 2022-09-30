@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 Multiport Websocket Autoscript Edition By Vinstechmy 🚀
+🚀 XRAY Multiport Websocket Autoscript Premium By Vinstechmy 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -24,7 +24,7 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
 </b>
 </b>
   
-## ⏩ MULTIPORT WEBSOCKET AUTOSCRIPT DETAILS ⏪
+## ⏩ XRAY MULTIPORT WEBSOCKET AUTOSCRIPT DETAILS ⏪
 <b>
 [ XRAY SERVICES ] <br>
 <br>
@@ -65,7 +65,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 </b>
 
-## ⏩ MULTIPORT WEBSOCKET AUTOSCRIPT EXAMPLE ⏪
+## ⏩ XRAY MULTIPORT WEBSOCKET AUTOSCRIPT EXAMPLE ⏪
 <b>
 </b>
 <br>
