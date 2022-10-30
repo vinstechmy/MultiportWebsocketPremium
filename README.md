@@ -78,7 +78,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/197686967-02f9681c-9438-46a7-8a9f-1c024802575a.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/198858454-d8f5eb8b-445d-4f10-923b-0a3fc04c7e2f.png" width="400" title="Autoscript-Lite">
 </p>
 
 </b>
