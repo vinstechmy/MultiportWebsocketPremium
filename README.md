@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 XRAY Multiport Websocket Autoscript Premium By Vinstechmy 🚀
+🚀 XRAY Multiport Websocket Premium By Vinstechmy 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
